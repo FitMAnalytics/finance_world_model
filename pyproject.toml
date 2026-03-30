@@ -1,0 +1,21 @@
+[project]
+name = "finance-world-model"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "datetime>=6.0",
+    "dotenv>=0.9.9",
+    "google>=3.0.0",
+    "google-genai>=1.69.0",
+    "google-generativeai>=0.8.6",
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.1",
+    "requests>=2.33.0",
+    "yfinance>=1.2.0",
+]
