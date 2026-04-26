@@ -1,0 +1,92 @@
+[
+  {
+    "event_id": "https://www.nytimes.com/2015/02/03/business/energy-environment/oil-and-gasoline-prices-remain-stable-despite-refinery-strike.html",
+    "headline": "Oil and Gas Prices Steady Despite a Refinery Strike",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 131 (char 130)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/04/business/fiat-chrysler-profit-in-us-fell-in-2014-on-charges-tied-to-merger.html",
+    "headline": "Fiat Chrysler Profit in U.S. Declined 56% in 2014 on Charges From Merger",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 107 (char 106)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/05/business/demand-for-ford-truck-means-higher-wages-for-500-workers.html",
+    "headline": "Ford Raises Pay for 500 Workers as Demand Grows for F-150 Pickup",
+    "error": "ValueError('No JSON object in model output:\\n{\"queries\": [\"Ford official announcement date and time of pay raise for 500 union workers at U.S. plants\", \"when did Ford announce wage increase for 500 entry-level union workers for F-150 production\"]]')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/05/us/barges-sit-for-hours-behind-locks-that-may-take-decades-to-replace.html",
+    "headline": "Barges Sit for Hours Behind Locks That May Take Decades to Replace",
+    "error": "ValueError('No JSON object in model output:\\n{\\n  \"event_id\": \"https://www.nytimes.com/2015/02/05/us/barges-sit-for-hours-behind-locks-that-may-take-decades-to-replace.html\",\\n  \"headline\": \"Barges Sit for Hours Behind Locks That May Take Decades to Replace\",\\n  \"date\": \"2015-02-05\",\\n  \"event_time\": null,\\n  \"category\": [\"other\"],\\n  \"summary\": \"Barges are experiencing significant delays as they pass through aging locks on the Tennessee River, particularly at the Kentucky Lock and Dam near Paducah, Kentucky, where boats are forced to wait hours due to deteriorating infrastructure built in the 1930s. The issue stems from a system that is structurally outdated and in need of extensive modernization, with replacement efforts estimated to take decades. This congestion affects river commerce by slowing down the movement of freight, which could impact supply chains and transportation costs in the region. The problem reflects a long-standing infrastructure gap in the U.S. inland waterway system, which was originally developed in the early 20')"
+  },
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/02/05/1915-germans-threaten-shipping/",
+    "headline": "1915: Germans Threaten Shipping",
+    "error": "JSONDecodeError(\"Expecting ',' delimiter: line 1 column 16 (char 15)\")"
+  },
+  {
+    "event_id": "https://www.nytimes.com/video/world/europe/100000003493568/kerry-and-poroshenko-meet-in-ukraine.html",
+    "headline": "Kerry and Poroshenko Meet in Ukraine",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 96 (char 95)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/06/world/europe/promise-of-europe-lures-syrian-refugees-and-smugglers-to-turkish-coast.html",
+    "headline": "Promise of Europe Lures Syrians and Smugglers",
+    "error": "JSONDecodeError('Extra data: line 1 column 252 (char 251)')"
+  },
+  {
+    "event_id": "https://sinosphere.blogs.nytimes.com/2015/02/06/chinese-herder-strikes-gold/",
+    "headline": "A Herder Strikes Gold, in the Shape of China",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 159 (char 158)')"
+  },
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/02/06/1890-a-catastrophe-in-the-pits/",
+    "headline": "1890: A Catastrophe in the Pits",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 124 (char 123)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/07/world/europe/turkish-foreign-minister-withdraws-from-security-conference-to-avoid-israelis.html",
+    "headline": "At Diplomatic Conference, Turkey-Israel Rift Worsens",
+    "error": "JSONDecodeError('Extra data: line 1 column 295 (char 294)')"
+  },
+  {
+    "event_id": "https://dealbook.nytimes.com/2015/02/12/a-closely-watched-metric-that-can-be-more-art-than-math/",
+    "headline": "A Closely Watched Metric That Can Be More Art Than Math",
+    "error": "OutOfMemoryError('CUDA out of memory. Tried to allocate 5.90 GiB. GPU 0 has a total capacity of 8.00 GiB of which 0 bytes is free. Of the allocated memory 9.21 GiB is allocated by PyTorch, and 300.29 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/14/world/asia/kokang-rebels-kill-dozens-of-soldiers-in-myanmar-near-border-with-china.html",
+    "headline": "Rebels Kill Dozens of Soldiers in Myanmar in Fighting Near Chinese Border",
+    "error": "JSONDecodeError('Extra data: line 1 column 260 (char 259)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/14/business/energy-environment/oil-prices-rise-3-on-european-growth-news.html",
+    "headline": "Oil Prices Up 3% on News of Economic Growth in Europe, but Supplies Rise",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 115 (char 114)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/17/us/southeast-region-hit-by-a-heavy-blast-of-snow-with-an-icy-cold-follow-up.html",
+    "headline": "Southeast Region Hit by a Heavy Blast of Snow, With an Icy Cold Follow-Up",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 137 (char 136)')"
+  },
+  {
+    "event_id": "https://dealbook.nytimes.com/2015/02/17/hedge-funds-offer-peek-at-their-holdings/",
+    "headline": "Seeing Value After a Plunge, Hedge Funds Bet on Energy Stocks",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 89 (char 88)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/20/business/for-lunar-new-year-port-dispute-hampers-festivities.html",
+    "headline": "Trappings of Chinese New Year Left at Sea by West Coast Port Dispute",
+    "error": "JSONDecodeError('Extra data: line 1 column 275 (char 274)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/22/us/tentative-agreement-is-reached-in-west-coast-ports-dispute.html",
+    "headline": "Tentative Agreement Is Reached in West Coast Ports Dispute",
+    "error": "JSONDecodeError('Extra data: line 1 column 298 (char 297)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/02/26/world/middleeast/talk-toughens-as-us-israel-relations-fray.html",
+    "headline": "Talk Toughens as U.S.-Israel Relations Fray",
+    "error": "JSONDecodeError('Extra data: line 1 column 344 (char 343)')"
+  }
+]

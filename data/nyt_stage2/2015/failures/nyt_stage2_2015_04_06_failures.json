@@ -1,0 +1,167 @@
+[
+  {
+    "event_id": "https://www.nytimes.com/2015/04/04/world/middleeast/benjamin-netanyahu-says-final-nuclear-deal-must-include-irans-recognition-of-israel.html",
+    "headline": "Netanyahu Says Final Nuclear Deal Must Include Iran\u2019s Recognition of Israel",
+    "error": "JSONDecodeError('Extra data: line 1 column 271 (char 270)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/06/us/70-years-on-crowd-gets-close-to-the-birthplace-of-the-atomic-bomb.html",
+    "headline": "70 Years On, Crowd Gets Close to the Birthplace of the Atomic Bomb",
+    "error": "JSONDecodeError('Extra data: line 1 column 256 (char 255)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/09/world/asia/new-images-show-china-literally-gaining-ground-in-south-china-sea.html",
+    "headline": "Piling Sand in a Disputed Sea, China Literally Gains Ground",
+    "error": "JSONDecodeError('Extra data: line 1 column 276 (char 275)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/11/us/schumer-is-squeezed-on-various-sides-over-iran-deal.html",
+    "headline": "Schumer Is Squeezed on Various Sides Over Iran Deal",
+    "error": "JSONDecodeError('Extra data: line 1 column 270 (char 269)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/16/world/europe/planned-motorcycle-rally-by-the-night-wolves-a-putin-ally-has-poland-on-edge.html",
+    "headline": "Planned Motorcycle Rally by the Night Wolves, a Putin Ally, Has Poland on Edge",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 144 (char 143)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/16/business/energy-environment/price-of-oil-rises-but-future-direction-remains-question-mark.html",
+    "headline": "Signs of Slowdown in Oil Production Send the Price Up, for Now",
+    "error": "OutOfMemoryError('CUDA out of memory. Tried to allocate 15.07 GiB. GPU 0 has a total capacity of 8.00 GiB of which 2.16 GiB is free. Of the allocated memory 4.16 GiB is allocated by PyTorch, and 664.00 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/16/world/middleeast/long-before-obama-and-iran-conservatives-compared-reagan-to-neville-chamberlain-for-arms-deal-with-soviets.html",
+    "headline": "Long Before Obama and Iran, Conservatives Compared Reagan to Neville Chamberlain",
+    "error": "JSONDecodeError('Extra data: line 1 column 260 (char 259)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/17/world/middleeast/un-security-council-sees-video-evidence-of-a-chemical-attack-in-syria.html",
+    "headline": "U.N. Security Council Sees Video Evidence of a Chemical Attack in Syria",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 109 (char 108)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/18/business/dealbook/stock-markets-fall-around-the-world.html",
+    "headline": "Stock Markets Fall Around the World",
+    "error": "JSONDecodeError('Extra data: line 1 column 271 (char 270)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/20/world/middleeast/billboards-in-iran-say-death-to-america-but-officials-say-lets-make-a-deal.html",
+    "headline": "Billboards in Iran Say \u2018Death to America,\u2019 but Officials Say \u2018Let\u2019s Make a Deal\u2019",
+    "error": "JSONDecodeError('Extra data: line 1 column 373 (char 372)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/23/world/middleeast/as-war-grinds-on-yemenis-share-their-anguish-online.html",
+    "headline": "As War Grinds On, Yemenis Share Their Anguish Online",
+    "error": "JSONDecodeError('Extra data: line 1 column 357 (char 356)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/04/25/world/middleeast/american-naval-force-off-yemen-gets-credit-after-iranian-convoy-turns-away.html",
+    "headline": "American Naval Force Off Yemen Gets Credit After Iranian Convoy Turns Away",
+    "error": "OutOfMemoryError('CUDA out of memory. Tried to allocate 11.61 GiB. GPU 0 has a total capacity of 8.00 GiB of which 2.25 GiB is free. Of the allocated memory 3.90 GiB is allocated by PyTorch, and 835.90 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)')"
+  },
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/04/28/1965-caviar-yes-kilowatts-no/",
+    "headline": "1965: Caviar, Yes, Kilowatts, No",
+    "error": "JSONDecodeError(\"Expecting ',' delimiter: line 1 column 16 (char 15)\")"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/02/world/americas/mexican-helicopter-shot-down-killing-3-soldiers.html",
+    "headline": "Mexican Helicopter Shot Down, Killing 3 Soldiers",
+    "error": "JSONDecodeError('Extra data: line 1 column 193 (char 192)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/07/business/to-cuba-on-business.html",
+    "headline": "To Cuba on Business",
+    "error": "JSONDecodeError('Extra data: line 1 column 223 (char 222)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/10/us/politics/legal-marijuana-faces-another-federal-hurdle-taxes.html",
+    "headline": "Legal Marijuana Faces Another Federal Hurdle: Taxes",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 84 (char 83)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/13/us/politics/hillary-clinton-walks-tightrope-as-pressure-grows-to-take-stance-on-trade-deal.html",
+    "headline": "Hillary Clinton Walks Tightrope as Pressure Grows to Take Stance on Trade Deal",
+    "error": "ValueError('No JSON object in model output:\\n{\"queries\": [\"Hillary Clinton official statement on Trans-Pacific Partnership trade deal date and time\", \"when did Hillary Clinton make her stance on Trans-Pacific Partnership trade deal\"]]')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/13/world/asia/myanmar-rohingya-refugees-rakhine-burma.html",
+    "headline": "Rohingya Refugees From Myanmar Have Been Persecuted for Decades",
+    "error": "JSONDecodeError('Extra data: line 1 column 304 (char 303)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/video/world/africa/100000003681559/protests-in-burundi-against-president.html",
+    "headline": "Protests in Burundi Against President",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 117 (char 116)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/16/business/economy/republican-presidential-candidates-rally-around-flat-tax.html",
+    "headline": "Republican Presidential Candidates Rally Around Flat Tax",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 119 (char 118)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/18/world/europe/american-envoy-to-hold-talks-with-russians-on-peace-deal-for-ukraine.html",
+    "headline": "American Envoy to Hold Talks With Russians on Peace Deal for Ukraine",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 142 (char 141)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/20/world/asia/4-killed-and-dozens-wounded-in-suicide-bombing-in-kabul.html",
+    "headline": "4 Killed and Dozens Wounded in Suicide Bombing in Kabul",
+    "error": "JSONDecodeError('Extra data: line 1 column 190 (char 189)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/22/world/europe/intelligence-spying-germany-us.html",
+    "headline": "Another Spying Scandal in Germany Adds to Political Crisis for Merkel",
+    "error": "JSONDecodeError('Extra data: line 1 column 300 (char 299)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/23/business/senate-vote-is-a-victory-for-obama-on-trade-but-a-tougher-test-awaits.html",
+    "headline": "Senate Vote Is a Victory for Obama on Trade, but a Tougher Test Awaits",
+    "error": "JSONDecodeError('Extra data: line 1 column 166 (char 165)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/05/29/us/arrest-opens-window-on-chinas-role-in-designer-drug-market.html",
+    "headline": "Arrest Underscores China\u2019s Role in the Making and Spread of a Lethal Drug",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 121 (char 120)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/06/04/world/europe/eastern-ukraine-fighting-breaks-out-near-donetsk.html",
+    "headline": "At Least 19 Killed in Fighting in Eastern Ukraine",
+    "error": "JSONDecodeError('Extra data: line 1 column 328 (char 327)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/06/06/us/a-race-to-alaska-no-motors-but-no-limits-on-imagination.html",
+    "headline": "A Race to Alaska: No Motors, but No Limits on Imagination",
+    "error": "JSONDecodeError('Extra data: line 1 column 238 (char 237)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/06/13/world/asia/myanmars-missing-rohingya.html",
+    "headline": "Myanmar\u2019s Missing Rohingya",
+    "error": "OutOfMemoryError('CUDA out of memory. Tried to allocate 10.08 GiB. GPU 0 has a total capacity of 8.00 GiB of which 0 bytes is free. Of the allocated memory 13.73 GiB is allocated by PyTorch, and 529.52 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/06/14/world/europe/pope-to-explore-climates-effect-on-worlds-poor.html",
+    "headline": "Pope Francis to Explore Climate\u2019s Effect on World\u2019s Poor",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 7 column 546 (char 816)')"
+  },
+  {
+    "event_id": "https://sinosphere.blogs.nytimes.com/2015/06/18/q-and-a-peter-j-li-on-the-clash-over-eating-dogs-in-china/",
+    "headline": "Q. and A.: Peter J. Li on the Clash Over Eating Dogs in China",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 161 (char 160)')"
+  },
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/06/28/1940-hong-kong-civilians-prepare-to-leave/",
+    "headline": "1940: Hong Kong Civilians Prepare To Leave",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 106 (char 105)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/06/30/business/energy-environment/lancashire-council-in-britain-deals-blow-to-shale-industry.html",
+    "headline": "Lancashire Council in Britain Deals Blow to Shale Industry",
+    "error": "ValueError('No JSON object in model output:\\n{\"queries\": [\"Lancashire Council rejection of Cuadrilla Resources shale drilling plan official announcement date\", \"Cuadrilla Resources shale drilling rejection date and time Lancashire Council\"]]')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/07/01/world/americas/us-and-brazil-agree-on-climate-change-actions.html",
+    "headline": "Global Climate Pact Gains Momentum as China, U.S. and Brazil Detail Plans",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 149 (char 148)')"
+  }
+]

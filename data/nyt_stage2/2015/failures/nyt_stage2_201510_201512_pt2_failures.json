@@ -1,0 +1,42 @@
+[
+  {
+    "event_id": "https://www.nytimes.com/2015/10/23/world/middleeast/group-cites-7-attacks-on-hospitals-across-syria.html",
+    "headline": "Group Cites 7 Attacks on Hospitals Across Syria",
+    "error": "JSONDecodeError('Extra data: line 1 column 291 (char 290)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/10/24/world/middleeast/us-and-russia-find-common-goals-on-syria-if-not-on-assad.html",
+    "headline": "U.S. and Russia Find Common Goals on Syria, if Not on Assad",
+    "error": "JSONDecodeError('Extra data: line 1 column 294 (char 293)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/video/world/americas/100000003996534/hurricane-patricia-makes-landfall.html",
+    "headline": "Hurricane Patricia Makes Landfall",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 91 (char 90)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/10/26/world/asia/joko-widodo-indonesia-washington-trans-pacific-partnership.html",
+    "headline": "Indonesia to Decide on Joining Trans-Pacific Partnership",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 140 (char 139)')"
+  },
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/10/30/1940-rome-expects-greek-collapse/",
+    "headline": "1940: Rome Expects Greek Collapse",
+    "error": "JSONDecodeError(\"Expecting ',' delimiter: line 1 column 16 (char 15)\")"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/01/world/middleeast/battle-heats-up-over-exports-of-surveillance-technology.html",
+    "headline": "Battle Heats Up Over Exports of Surveillance Technology",
+    "error": "JSONDecodeError('Extra data: line 1 column 320 (char 319)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/07/business/dealbook/rite-aid-and-walgreens-in-murky-deal-to-clear-antitrust-hurdle.html",
+    "headline": "Rite Aid and Walgreens in Murky Deal to Clear Antitrust Hurdle",
+    "error": "JSONDecodeError('Extra data: line 1 column 276 (char 275)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/12/world/middleeast/on-the-road-in-syria-struggle-all-around.html",
+    "headline": "On the Road in Syria, Struggle All Around",
+    "error": "JSONDecodeError('Extra data: line 1 column 234 (char 233)')"
+  }
+]

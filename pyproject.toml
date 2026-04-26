@@ -5,21 +5,30 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "datetime>=6.0",
-    "dotenv>=0.9.9",
-    "google>=3.0.0",
-    "google-genai>=1.69.0",
-    "google-generativeai>=0.8.6",
     "ipykernel>=7.2.0",
-    "jupyter>=1.1.1",
-    "matplotlib>=3.10.8",
-    "nbconvert>=7.17.0",
-    "numpy>=2.4.3",
-    "openpyxl>=3.1.5",
-    "optuna>=4.8.0",
-    "pandas>=3.0.1",
-    "requests>=2.33.0",
+    "pandas>=3.0.2",
+    "torch>=2.11.0",
+    "torchaudio>=2.11.0",
+    "torchvision>=0.26.0",
+    "transformers>=4.51.0",
+    "accelerate>=1.0.0",
+    "bitsandbytes>=0.45.0",
+    "pydantic>=2.0",
+    "python-dotenv>=1.0",
+    "duckduckgo-search>=6.0",
+    "requests>=2.33.1",
+    "pyarrow>=23.0.1",
+    "fastparquet>=2026.3.0",
+    "sentence-transformers>=5.4.1",
     "scikit-learn>=1.8.0",
-    "xgboost>=3.2.0",
-    "yfinance>=1.2.0",
 ]
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+torchaudio = { index = "pytorch-cu128" }
+torchvision = { index = "pytorch-cu128" }

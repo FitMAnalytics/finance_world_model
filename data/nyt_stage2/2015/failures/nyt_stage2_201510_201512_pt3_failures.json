@@ -1,0 +1,72 @@
+[
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/11/13/1940-britain-smashes-italys-ships/",
+    "headline": "1940: Britain Smashes Italy\u2019s Ships",
+    "error": "JSONDecodeError('Extra data: line 1 column 242 (char 241)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/15/world/europe/paris-attacks-what-we-know-and-dont-know.html",
+    "headline": "Paris Attacks: What We Know and Don\u2019t Know",
+    "error": "JSONDecodeError('Extra data: line 1 column 252 (char 251)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/17/business/dealbook/filings-show-rocky-quarter-for-many-hedge-funds.html",
+    "headline": "Filings Show Rocky Quarter for Many Hedge Funds",
+    "error": "JSONDecodeError('Extra data: line 1 column 262 (char 261)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/18/us/jury-gets-case-against-ex-chief-of-west-virginia-coal-mine-on-safety.html",
+    "headline": "Jury Gets Case Against Ex-Chief of West Virginia Coal Mine on Safety",
+    "error": "ValueError('No JSON object in model output:\\n{\"queries\": [\"federal jury verdict date and time Massey Energy CEO Donald Blankenship safety case charleston wva\", \"when did the federal jury hear the Massey Energy explosion case and what was the exact date and time of the trial start\"]]')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/19/world/asia/police-in-china-kill-17-linked-to-mine-attack-report-says.html",
+    "headline": "Police in China Kill 17 Linked to Mine Attack, Report Says",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 127 (char 126)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/20/business/the-american-turkey-farmer-takes-on-mother-nature-and-wins.html",
+    "headline": "After Bird Flu Scare, Plenty of Turkeys for Thanksgiving",
+    "error": "ValueError('No JSON object in model output:\\n{\"queries\": [\"official announcement date and time of turkey culling due to avian flu 2023\", \"when did the avian flu outbreak lead to 7.5 million turkey deaths and when was the decision made to cull\"]]')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/21/world/australia/australia-fires-record-temperatures.html",
+    "headline": "Record Heat Puts Australia at Risk of Intense Fire Season",
+    "error": "JSONDecodeError(\"Expecting ',' delimiter: line 13 column 18 (char 1518)\")"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/21/world/middleeast/paris-and-mali-attacks-expose-a-lethal-al-qaeda-isis-rivalry.html",
+    "headline": "Paris and Mali Attacks Expose Lethal Qaeda-ISIS Rivalry",
+    "error": "JSONDecodeError('Extra data: line 1 column 218 (char 217)')"
+  },
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/11/22/1940-fascists-driven-from-key-city-in-greece/",
+    "headline": "1940: Fascists Driven From Key City in Greece",
+    "error": "JSONDecodeError('Extra data: line 1 column 210 (char 209)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/24/world/europe/extreme-weather-disasters-united-nations-paris.html",
+    "headline": "Extreme Weather Tied to Over 600,000 Deaths Over 2 Decades",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 80 (char 79)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/25/business/economy/us-economy-q3-growth-gdp-revision.html",
+    "headline": "U.S. Economic Growth for 3rd Quarter Revised Up to 2.1%",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 101 (char 100)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/11/27/business/energy-environment/despite-global-events-us-gasoline-prices-remain-low.html",
+    "headline": "Despite Global Events, U.S. Gasoline Prices Remain Low",
+    "error": "JSONDecodeError('Extra data: line 1 column 198 (char 197)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/12/03/world/africa/zambia-china-economic-slowdown.html",
+    "headline": "China\u2019s Slowdown Tarnishes Economic Boom in Copper-Rich Zambia",
+    "error": "ValueError('No JSON object in model output:\\n{\\n  \"event_id\": \"https://www.nytimes.com/2015/12/03/world/africa/zambia-china-economic-slowdown.html\",\\n  \"headline\": \"China\u2019s Slowdown Tarnishes Economic Boom in Copper-Rich Zambia\",\\n  \"date\": \"2015-12-03\",\\n  \"event_time\": null,\\n  \"category\": [\"commodity_shock\"],\\n  \"summary\": \"Zambia\\'s economy experienced a downturn due to declining demand for its copper exports, which are heavily reliant on China\\'s economic activity. As China\\'s economic growth slowed in 2015, demand for copper \u2014 a key export for Zambia \u2014 declined, leading to reduced revenues and a weakening of the country\\'s economic boom. This event matters because Zambia\\'s economy is structurally tied to commodity exports, particularly copper, and a drop in demand from China, its largest buyer, directly impacts government revenues, investment, and employment. The context includes a long-standing pattern of Chinese investment in Zambia\\'s infrastructure and construction projects, such as the Dollar Hill Shopping Mall, which were seen a')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/12/05/business/economy/jobs-report-hiring-unemployment-november.html",
+    "headline": "Robust Jobs Report All but Guarantees Fed Will Raise Rates",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 113 (char 112)')"
+  }
+]

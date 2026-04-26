@@ -1,0 +1,67 @@
+[
+  {
+    "event_id": "https://www.nytimes.com/2015/01/03/world/asia/taliban-bid-to-capture-hearts-along-with-territory-hurt-by-unruly-factions.html",
+    "headline": "Unruly Factions Hurt Taliban\u2019s Bid to Capture Afghan Hearts, and Territory",
+    "error": "JSONDecodeError('Extra data: line 1 column 280 (char 279)')"
+  },
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/01/04/1940-british-shipping-to-be-operated-by-government/",
+    "headline": "1940: British Shipping to Be Operated by Government",
+    "error": "JSONDecodeError('Extra data: line 1 column 238 (char 237)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/06/business/us-auto-sales-jump-for-2014.html",
+    "headline": "2014 Auto Sales Jump in U.S., Even With Recalls",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 90 (char 89)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/08/us/new-research-links-scores-of-earthquakes-to-fracking-wells-near-a-fault-in-ohio.html",
+    "headline": "New Research Links Scores of Earthquakes to Fracking Wells Near a Fault in Ohio",
+    "error": "JSONDecodeError('Extra data: line 1 column 242 (char 241)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/10/business/tame-inflation-in-china-leaves-room-for-stimulus.html",
+    "headline": "Modest Rise in Inflation Gives China Room to Act",
+    "error": "JSONDecodeError(\"Expecting ',' delimiter: line 1 column 182 (char 181)\")"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/20/world/asia/4-killed-in-clashes-in-northeastern-india.html",
+    "headline": "4 Killed in Clashes in Northeastern India",
+    "error": "JSONDecodeError('Extra data: line 1 column 291 (char 290)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/24/world/asia/narendra-modi-and-president-obama-to-meet-in-new-delhi.html",
+    "headline": "U.S. and India Appear Ready to Try to Hash Out Differences",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 130 (char 129)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/25/world/europe/snubbed-by-us-and-europe-kremlin-looks-to-asia-at-davos.html",
+    "headline": "Snubbed by U.S. and Europe, Kremlin Looks to Asia at Davos",
+    "error": "OutOfMemoryError('CUDA out of memory. Tried to allocate 1.16 GiB. GPU 0 has a total capacity of 8.00 GiB of which 0 bytes is free. Of the allocated memory 12.54 GiB is allocated by PyTorch, and 1.32 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/25/us/politics/republican-governors-buck-party-line-on-raising-taxes.html",
+    "headline": "Republican Governors Buck Party Line on Raising Taxes",
+    "error": "JSONDecodeError('Extra data: line 1 column 349 (char 348)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/26/us/politics/obama-to-seek-to-protect-millions-of-acres-of-arctic-habitat.html",
+    "headline": "Obama Will Move to Protect Vast Arctic Habitat in Alaska",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 126 (char 125)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/26/world/middleeast/saudis-expand-regional-power-as-others-falter.html",
+    "headline": "Saudis Expand Regional Power as Others Falter",
+    "error": "JSONDecodeError('Extra data: line 1 column 290 (char 289)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/28/world/asia/obama-ends-visit-with-challenge-to-india-on-climate-change.html",
+    "headline": "As Visit Ends, Obama Presses India on Human Rights and Climate Change",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 143 (char 142)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/01/30/world/asia/narendra-modi-subrahmanyam-jaishankar-foreign-secretary.html",
+    "headline": "Narendra Modi Replaces India\u2019s Foreign Secretary With Envoy to U.S.",
+    "error": "JSONDecodeError('Extra data: line 1 column 267 (char 266)')"
+  }
+]

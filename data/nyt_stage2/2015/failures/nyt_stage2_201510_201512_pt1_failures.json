@@ -1,0 +1,42 @@
+[
+  {
+    "event_id": "https://www.nytimes.com/2015/10/08/world/europe/migration-of-young-men-poses-risks-for-both-syria-and-europe.html",
+    "headline": "Waves of Young Syrian Men Bring Hope, and a Test, to Europe",
+    "error": "JSONDecodeError('Extra data: line 1 column 277 (char 276)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/10/14/world/middleeast/bitterness-abounds-in-yemens-north-a-houthi-stronghold.html",
+    "headline": "Bitterness Abounds in Yemen\u2019s North, a Houthi Stronghold",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 126 (char 125)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/10/14/business/economy/a-2nd-fed-governor-opposes-raising-rates-this-year-breaking-with-yellen.html",
+    "headline": "A 2nd Fed Governor Opposes Raising Rates This Year, Breaking With Yellen",
+    "error": "ValueError('No JSON object in model output:\\n{\"queries\": [\"Federal Reserve Daniel Tarullo statement against rate hikes this year official date\", \"when did Daniel Tarullo speak against raising interest rates this year Fed\"]]')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/10/15/world/middleeast/iran-nuclear-deal-centrifuges.html",
+    "headline": "Iran Is Set to Put Nuclear Deal, Now Ratified, in Motion",
+    "error": "JSONDecodeError(\"Expecting ',' delimiter: line 12 column 24 (char 1683)\")"
+  },
+  {
+    "event_id": "https://www.nytimes.com/video/world/middleeast/100000003982028/clashes-in-west-bank-and-jerusalem.html",
+    "headline": "Clashes in West Bank and Jerusalem",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 142 (char 141)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/10/18/world/middleeast/as-conflicts-flare-up-leaders-fan-sectarian-flames-in-middle-east.html",
+    "headline": "As Conflicts Flare Up, Leaders Fan Sectarian Flames in Middle East",
+    "error": "JSONDecodeError('Extra data: line 1 column 349 (char 348)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/10/20/world/asia/philippines-typhoon-koppu-lando.html",
+    "headline": "Philippines Mauled by Slow-Moving Storm",
+    "error": "JSONDecodeError('Extra data: line 1 column 250 (char 249)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/10/23/world/australia/australia-somalia-refugee-abyan-rape-abortion-nauru.html",
+    "headline": "Australia\u2019s Migrant Rules Criticized Over Abyan, a Somali Asylum Seeker",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 115 (char 114)')"
+  }
+]

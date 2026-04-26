@@ -1,0 +1,57 @@
+[
+  {
+    "event_id": "https://www.nytimes.com/2015/03/02/business/dealbook/data-security-is-becoming-the-sparkle-in-bitcoin.html",
+    "headline": "Data Security Is Becoming the Sparkle in Bitcoin",
+    "error": "OutOfMemoryError('CUDA out of memory. Tried to allocate 103.16 GiB. GPU 0 has a total capacity of 8.00 GiB of which 0 bytes is free. Of the allocated memory 8.83 GiB is allocated by PyTorch, and 1.02 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/03/03/world/middleeast/3-israelis-charged-with-smuggling-materials-to-hamas.html",
+    "headline": "3 Israelis Are Charged on Suspicion of Supplying Materials to Hamas Militants",
+    "error": "JSONDecodeError('Extra data: line 1 column 319 (char 318)')"
+  },
+  {
+    "event_id": "https://iht-retrospective.blogs.nytimes.com/2015/03/09/1915-u-k-wants-power-of-factories/",
+    "headline": "1915: U.K. Wants Power Over All Factories During the War",
+    "error": "JSONDecodeError(\"Expecting ',' delimiter: line 1 column 16 (char 15)\")"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/03/10/world/middleeast/iran-us-offers-5-million-for-news-on-ex-fbi-agent.html",
+    "headline": "Iran: U.S. Offers $5 Million for News on Ex-F.B.I. Agent",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 156 (char 155)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/03/11/business/dealbook/emerging-markets-lose-their-luster-as-crises-mount.html",
+    "headline": "Emerging Markets Lose Their Luster as Crises Mount",
+    "error": "JSONDecodeError('Extra data: line 1 column 316 (char 315)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/03/14/world/middleeast/3-persian-gulf-nations-pledge-12-billion-in-aid-for-egypt.html",
+    "headline": "3 Persian Gulf Nations Pledge $12 Billion in Aid for Egypt",
+    "error": "JSONDecodeError('Expecting property name enclosed in double quotes: line 1 column 141 (char 140)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/03/15/world/asia/cyclone-hits-island-nation-of-vanuatu-and-kills-6.html",
+    "headline": "Cyclone Hits Island Nation of Vanuatu, Killing 8",
+    "error": "JSONDecodeError('Extra data: line 1 column 219 (char 218)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/03/20/world/middleeast/kerry-says-difficult-issues-persist-in-nuclear-talks-with-iran.html",
+    "headline": "Iran Nuclear Talks Lag, With Status of New Centrifuges Another Hurdle",
+    "error": "JSONDecodeError(\"Expecting ',' delimiter: line 1 column 286 (char 285)\")"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/03/24/world/middleeast/israeli-officials-talk-with-french-to-try-to-influence-iran-nuclear-deal.html",
+    "headline": "Israeli Officials Talk With French to Try to Influence Iran Nuclear Deal",
+    "error": "JSONDecodeError('Extra data: line 1 column 261 (char 260)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/video/world/europe/100000003592534/arrests-in-ukraine-are-seen-on-live-tv.html",
+    "headline": "Arrests in Ukraine Are Seen on Live TV",
+    "error": "JSONDecodeError('Extra data: line 1 column 238 (char 237)')"
+  },
+  {
+    "event_id": "https://www.nytimes.com/2015/03/31/world/middleeast/iran-nuclear-talks.html",
+    "headline": "\u2018Tricky Issues\u2019 Remain as Deadline Nears in Nuclear Talks With Iran",
+    "error": "JSONDecodeError('Extra data: line 1 column 272 (char 271)')"
+  }
+]
