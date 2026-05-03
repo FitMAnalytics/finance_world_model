@@ -14,3 +14,7 @@ data_raw/
 world_model_oil_price.md
 commodity_data_guide.ipynb
 .env
+
+stage2_event_expansion.ipynb
+
+archived/
